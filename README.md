@@ -13,7 +13,7 @@ Al momento de ejecutar el archivo se mostrará en la consola unos inputs o campo
     Esperamos que te haya gustado el mensaje. ¡Hasta luego!
 ```
 
-### Desarrollad por:
+### Desarrollado por:
 - Michelle Alleyne.
 - Stephanie Cruz.
 - Diego De Quintal.
