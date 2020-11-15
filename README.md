@@ -1,7 +1,7 @@
 # mini-app-sockets
 
 ### Ejecución
-Al momento de ejecutar el archivo se mostrará en la consola unos inputs o campos en los cuales se deberá especificar el nombre de usuario, la dirección IP y el puerto. De la siguiente manera:
+Al momento de ejecutar el archivo **client.py** se mostrará en la consola unos inputs o campos en los cuales se deberá especificar el nombre de usuario, la dirección IP y el puerto. De la siguiente manera:
 
 ```
     Bienvenido a Mensajes UCAB
@@ -12,6 +12,7 @@ Al momento de ejecutar el archivo se mostrará en la consola unos inputs o campo
     La gente exitosa y no exitosa no varían mucho en sus habilidades. Varían en sus deseos de alcanzar su potencial. John Maxwell     
     Esperamos que te haya gustado el mensaje. ¡Hasta luego!
 ```
+Realizado con phyton 3
 
 ### Desarrollado por:
 - Michelle Alleyne.
